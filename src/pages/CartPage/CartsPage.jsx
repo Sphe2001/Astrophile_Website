@@ -1,9 +1,7 @@
 import React from 'react'
 
-function CartsPage() {
+export const CartsPage = () => {
   return (
     <div>CartsPage</div>
   )
 }
-
-export default CartsPage
